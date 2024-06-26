@@ -1,0 +1,5 @@
+{
+  "/rooms":{
+    "target": "http://localhost:9192/"
+  }
+}
